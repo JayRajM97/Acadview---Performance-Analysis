@@ -1,0 +1,6 @@
+Model,Score
+Logistic Regression,80.22
+KNN,68.28
+Decision Tree,75.75
+Random Forest,82.09
+Naive Bayes,78.36
